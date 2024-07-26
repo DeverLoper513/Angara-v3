@@ -11,12 +11,12 @@ function App() {
   //Instance ID
   let InstanceId_Widget = "810602";
   let InstanceId_QA = "";
-  let InstanceId_SEO = "";
+  let InstanceId_SEO = "812839";
   let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "";
+  let InstanceId_StarRating = "812838";
   let InstanceId_PromotedProd = "";
   let InstanceId_UgcGallery = "";
-  let InstanceId_ReviewsTab = "";
+  let InstanceId_ReviewsTab = "812840";
 
   //Product ID
   let ProductId = "132475";
