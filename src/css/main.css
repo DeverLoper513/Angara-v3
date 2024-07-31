@@ -194,6 +194,12 @@ body {
   height: auto;
 }
 
+@media screen and (max-width: 480px){
+	.wrapper{
+		padding: unset !important;
+	}
+}
+
 .accordion-button,
 .cliboard-holder * {
   font-family: "Roboto", sans-serif;
