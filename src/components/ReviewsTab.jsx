@@ -14,7 +14,7 @@ function ReviewsTab(props) {
           }
           data-yotpo-instance-id={instanceid}
           data-yotpo-product-id={productid}
-          mode-preview={productid === "" ? "true" : ""}
+          mode-preview= "true"
         />
       );
     }
